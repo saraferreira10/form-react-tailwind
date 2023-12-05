@@ -19,7 +19,7 @@ git clone https://github.com/saraferreira10/form-react-tailwind.git
 2. Acesse o diretório do projeto:
 
 ```
-cd form
+cd form-react-tailwind
 ```
 
 3. Instale as dependências:
